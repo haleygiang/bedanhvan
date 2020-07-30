@@ -1,6 +1,6 @@
 html, body {
     text-align: center;
-    background-color: palegoldenrod;
+    background-color: #F9D6CA;
 }
 
 /* Section */
@@ -9,6 +9,7 @@ html, body {
     top: 100px;
     bottom: 0;
     width: 100%;
+    background-color: #7FA4DC;
 }
 
 #title {
