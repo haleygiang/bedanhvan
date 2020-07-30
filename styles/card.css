@@ -31,3 +31,8 @@ html, body {
     height: 75vh; 
     align-self: center;
 }
+
+.card{
+    margin-left: 300px;
+}
+
