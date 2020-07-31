@@ -18,7 +18,6 @@ app.post('/api', function(req, res) {
             'format': 'mp3'
         }
     }
-    console.log(req.body.data);
     axios.post('https://api.fpt.ai/hmi/tts/v5', req.body.data, config)
         .then(response => res.json(response.data))
         .catch(err => res.status(400).json(err));
