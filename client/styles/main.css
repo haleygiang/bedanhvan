@@ -1,5 +1,4 @@
 html, body {
-    text-align: center;
     background-color: #FFFBEA;
 }
 
@@ -14,16 +13,12 @@ img{
     height: auto; 
     width: auto; 
     margin: 50px; 
+    text-align: center;
 }
 
 h1 {
     margin-top: 50px;
+    text-align: center;
 }
 
-.dropdown-menu {
-    left: 50%;
-    right: auto;
-    text-align: center;
-    transform: translate(-50%, 0);
-  }
 

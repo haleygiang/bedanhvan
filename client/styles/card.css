@@ -1,5 +1,4 @@
 html, body {
-    text-align: center;
     background-color: #F9D6CA;
 }
 
@@ -37,5 +36,9 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    text-align: center;
 }
 
+h1 {
+    text-align: center;
+}
